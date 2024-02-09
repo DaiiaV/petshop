@@ -1,0 +1,24 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: #03045e;
+    color: aliceblue;
+}
+.titulo1{
+    background-color: #03045e;
+    color: aliceblue;
+}
+.bg-azul{
+    background-color: #03045e;
+    color: aliceblue;
+}
+h3{
+    color: #0077b6;
+}
+h4{
+    color: #0077b6;
+}
+img {
+    object-fit: cover;
+}
